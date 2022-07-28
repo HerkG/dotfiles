@@ -1,0 +1,21 @@
+"*":
+  core:
+    disabledPackages: [
+      "spell-check"
+    ]
+    telemetryConsent: "limited"
+  editor:
+    defaultFontSize: 13
+    fontFamily: "Fira Code "
+    preferredLineLength: 99
+    scrollPastEnd: true
+    softWrap: true
+    softWrapAtPreferredLineLength: true
+    tabLength: 4
+  "exception-reporting":
+    userId: "60aab914-e4e7-4ab3-a8d8-41ec4263c815"
+  "platformio-ide-terminal":
+    toggles:
+      autoClose: true
+  welcome:
+    showOnStartup: false
